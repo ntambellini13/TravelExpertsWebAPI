@@ -5,7 +5,7 @@ Deployed with Azure at http://tawicotravelexperts.azurewebsites.net/ (currently 
 
 Group Project done in 1.5 weeks during TechCareers Software Developer Certificate at SAIT in September 2019
 
-Steps to Run Locally
+Steps to Run Locally:
 
 1)	There are 2 different project folders within the in the overall TravelExperts Web API Project
 a.	TravelExperts.API – contains the ASP.NET CORE portion
